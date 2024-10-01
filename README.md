@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hey! 👋</h2>
-I'm Marwa! Welcome to my GitHub profile, where I'm constantly tinkering with code and building cool stuff!
+I'm Abdelrahman! Welcome to my GitHub profile, where I'm constantly tinkering with code and building cool stuff!
 
-🔭 I'm passionate about Java and Kotlin for Java and Kotlin for Android app development while diving deep into Dart and Flutter for cross-platform mobile development. I'm also  passionate about Spring Framework, and Spring Boot
+🔭 I'm passionate about Java and Kotlin for Java and Kotlin for Android app development while diving deep into Dart and Flutter for cross-platform mobile development.
 
 🌱I am interested in advanced object-oriented programming concepts and applying SOLID principles to my projects.
 
-👯 I’m looking to collaborate on open-source projects related to Android development, Flutter apps, or Spring Boot web applications.
-
-😄 Pronouns: She/Her
+👯 I’m looking to collaborate on open-source projects related to Android development or Flutter apps.
 
 ⚡ Fun fact: When I'm not coding, you can find me exploring new cafes in search of the perfect cup of coffee!
 
@@ -51,13 +49,6 @@ I'm Marwa! Welcome to my GitHub profile, where I'm constantly tinkering with cod
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
 </div>
 
 # Eng-Abdelrahaman
